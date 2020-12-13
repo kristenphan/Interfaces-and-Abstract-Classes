@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=IMarkovModel
+comment0.text=\r\n\ Write\ a\ description\ of\ interface\ IMarkovModel\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=o
+comment1.target=void\ setOrder(int)
+comment1.text=\r\n\ Set\ up\ a\ Markov\ object\ with\ the\ desired\ order\ e.g\ Markov\ Zero,\ MarkovOne,\ etc.\r\n
+comment2.params=text
+comment2.target=void\ setTraining(java.lang.String)
+comment2.text=\r\n\ Read\ in\ training\ text\r\n
+comment3.params=seed
+comment3.target=void\ setRandom(int)
+comment3.text=\r\n\ Set\ up\ the\ random\ number\ generator\r\n
+comment4.params=numChars
+comment4.target=java.lang.String\ getRandomText(int)
+comment4.text=\r\n\ Generate\ a\ random\ text\ in\ accordance\ with\ the\ order\ of\ the\ Markov\ program\r\n
+numComments=5

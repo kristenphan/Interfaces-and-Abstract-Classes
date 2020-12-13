@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MarkovRunnerWithInterface
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MarkovRunner\ here.\r\n\ \r\n\ @author\ Duke\ Software\r\n\ @version\ 1.0\r\n
+comment1.params=markov\ order\ seed\ text\ size
+comment1.target=void\ setupModel(IMarkovModel,\ int,\ int,\ java.lang.String,\ int)
+comment1.text=\r\n\ Run\ any\ Markov\ model\ that\ implements\ the\ IMarkovModel\ interface\ and\ print\ the\ random\ text\ generated\r\n
+comment2.params=
+comment2.target=void\ runMarkov()
+comment2.text=\r\n\ Create\ different\ types\ of\ Markov\ models\ and\ call\ runModel()\ to\ run\ them\r\n
+comment3.params=s
+comment3.target=void\ printOut(java.lang.String)
+comment3.text=\r\n\ Format\ and\ print\ the\ randomly\ generated\ text\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
